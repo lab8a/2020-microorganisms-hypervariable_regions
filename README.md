@@ -38,5 +38,3 @@ Log and Scripts:
 	multi_ordination_methods.R
 
 	plot_abundance_from_table.R
-
-	README.txt
